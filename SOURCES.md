@@ -1,0 +1,85 @@
+# Источники
+
+Отчёты, исследования, документы и публикации, на которых построен доклад. Порядок — по ходу слайдов.
+
+- TechCrunch (2024–2025: заявления, по которым будем сверяться) — https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/
+- SF Standard (2024–2025: заявления, по которым будем сверяться) — https://sfstandard.com/2025/02/27/salesforce-marcbenioff-layoffs-tech-agents/
+- Axios (2024–2025: заявления, по которым будем сверяться) — https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic
+- Goldman Sachs (Почему бизнес поверил мгновенно) — https://www.goldmansachs.com/insights/articles/generative-ai-could-raise-global-gdp-by-7-percent
+- McKinsey (Почему бизнес поверил мгновенно) — https://www.mckinsey.com/mgi/media-center/ai-could-increase-corporate-profits-by-4-trillion-a-year-according-to-new-research
+- Challenger, Gray & Christmas (Масштаб сокращений) — https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons/
+- HR Dive, H1 2026 (Масштаб сокращений) — https://www.hrdive.com/news/tech-layoffs-surge-83percent-h1-2026-challenger-ai-disruption/824320/
+- Forbes, май 2025 (Klarna: эталонный кейс замены поддержки) — https://www.forbes.com/sites/quickerbettertech/2025/05/18/business-tech-news-klarna-reverses-on-ai-says-customers-like-talking-to-people/
+- Forbes, июль 2026 — разбор (Klarna: эталонный кейс замены поддержки) — https://www.forbes.com/sites/bernardmarr/2026/07/16/how-klarnas-ai-agent-strategy-backfired-but-became-a-useful-lesson/
+- Entrepreneur / WSJ (IBM: 94% автоматизации и рост штата) — https://www.entrepreneur.com/business-news/ibm-ceo-ai-replaced-hundreds-of-human-resources-staff/491341
+- Restaurant Dive (McDonald's × IBM: три года и 260 наггетсов) — https://www.restaurantdive.com/news/mcdonalds-ibm-drive-thru-automation-voice-ordering-ai/719085/
+- NBC News (McDonald's × IBM: три года и 260 наггетсов) — https://www.nbcnews.com/business/business-news/mcdonalds-end-ai-drive-test-ibm-rcna157603
+- CIO Dive — S&P Global (Что общего у всех этих кейсов) — https://www.ciodive.com/news/AI-project-fail-data-SPGlobal/742590/
+- S&P Global Market Intelligence (Что общего у всех этих кейсов) — https://www.spglobal.com/market-intelligence/en/news-insights/research/ai-experiences-rapid-adoption-but-with-mixed-outcomes-highlights-from-vote-ai-machine-learning
+- Tom's Hardware (Токен-максинг: когда метрика становится целью) — https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-engineers-should-use-ai-tokens-worth-half-their-annual-salary-every-year-to-be-fully-productive-compares-not-using-ai-to-using-paper-and-pencil-for-designing-chips
+- the-decoder (Токен-максинг: когда метрика становится целью) — https://the-decoder.com/nvidia-ceo-jensen-huang-says-hed-be-deeply-alarmed-if-a-500k-developer-spent-less-than-250k-on-ai-tokens/
+- Fortune (Uber: годовой бюджет за четыре месяца) — https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/
+- TechCrunch (Uber: годовой бюджет за четыре месяца) — https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
+- Inc. (Uber: годовой бюджет за четыре месяца) — https://www.inc.com/lucia-auerbach/uber-blew-through-2026-ai-budget-in-four-months-now-it-is-capping-employee-use/91355199
+- People Matters (Microsoft: инструмент победил — и его отключили) — https://sea.peoplemattersglobal.com/news/ai-and-emerging-tech/microsoft-cancels-claude-code-licences-after-engineers-use-it-too-much-49918
+- Enterprise DNA (Microsoft: инструмент победил — и его отключили) — https://enterprisedna.co/resources/news/microsoft-claude-code-enterprise-budget-overrun-2026/
+- AI Magazine (Amazon: сотрудники начали накручивать счётчик) — https://aimagazine.com/news/why-amazon-has-dropped-its-internal-ai-usage-leaderboard
+- Tom's Hardware (Amazon: сотрудники начали накручивать счётчик) — https://www.tomshardware.com/tech-industry/big-tech/big-tech-has-a-tokenmaxxing-habit
+- BenchLM Token Price Index (Главный контринтуитивный факт: токены дешевеют) — https://benchlm.ai/stats/llm-pricing
+- OpsLyft (Главный контринтуитивный факт: токены дешевеют) — https://www.opslyft.com/blog/llm-pricing-comparison-cost-per-token
+- Creeta (Юнит-экономика: OpenAI) — https://news.creeta.com/en/openai-q1-2026-financials-burn-rate/
+- ValueAdd VC (Юнит-экономика: OpenAI) — https://valueaddvc.com/blog/openai-revenue-2026-25b-arr-14b-loss-and-why-profitability-waits-until-2030
+- CNBC (Юнит-экономика: Anthropic) — https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html
+- TechCrunch (Юнит-экономика: Anthropic) — https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
+- CNBC (Инфраструктура: главная дыра) — https://www.cnbc.com/2026/02/12/top-hyperscalers-to-boost-ai-capex-to-600-billion-stocks-that-benefit.html
+- 24/7 Wall St. — UBS (Инфраструктура: главная дыра) — https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex/
+- Introl (Инфраструктура: главная дыра) — https://introl.com/blog/hyperscaler-capex-600b-2026-ai-infrastructure-debt-january-2026
+- Bloomberg (Рынок начал задавать вопросы) — https://www.bloomberg.com/news/articles/2026-07-28/nasdaq-100-heads-for-correction-as-ai-worries-rattle-investors
+- ClaritX (Рынок начал задавать вопросы) — https://www.claritx.ai/blog/ai-stock-sell-off-june-2026-bubble-analysis
+- AI ROI statistics 2026 — сводка (Где отдача: что показывают замеры) — https://actigy.com/resources/ai-roi-statistics/
+- Master of Code — разбор Deloitte (Где отдача: что показывают замеры) — https://masterofcode.com/blog/ai-roi
+- Gartner (Проекты, которые не дожили) — https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027
+- Bloomberg via Yahoo Finance (Стройка упирается не в чипы, а в трансформаторы) — https://finance.yahoo.com/sectors/technology/articles/half-planned-us-data-center-150928890.html
+- SemiAnalysis — возражение (Стройка упирается не в чипы, а в трансформаторы) — https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter
+- CNBC (Чем сейчас платит рынок: пример SpaceX) — https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html
+- NC State Poole (Чем сейчас платит рынок: пример SpaceX) — https://poole.ncsu.edu/thought-leadership/article/spacexs-ipo-a-small-slice-a-giant-valuation-and-a-new-playbook-for-public-markets/
+- METR (METR: опытные разработчики стали медленнее) — https://metr.org/
+- The Register (METR: опытные разработчики стали медленнее) — https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/
+- Faros — критика (METR: опытные разработчики стали медленнее) — https://www.faros.ai/blog/lab-vs-reality-ai-productivity-study-findings
+- GitClear, The Maintainability Gap 2026 (Что происходит с кодовой базой: данные GitClear) — https://www.gitclear.com/the_ai_code_quality_maintainability_gap
+- LeadDev (Что происходит с кодовой базой: данные GitClear) — https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era
+- DX Newsletter (Что происходит с кодовой базой: данные GitClear) — https://newsletter.getdx.com/p/ai-authored-code-has-nearly-doubled
+- Tech Insider — сводка исследований (Дефекты: 1,7× и почему это хуже, чем звучит) — https://tech-insider.org/ie/ai-code-quality-crisis-2026/
+- Veracode (Безопасность: 45% и выдуманные пакеты) — https://www.veracode.com/blog/securing-ai-code-generation-appsec/
+- Cloud Security Alliance (Безопасность: 45% и выдуманные пакеты) — https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-generated-code-vulnerability-surge-2026/
+- PPC Land — разбор CRMArena-Pro (Агенты: 58% и 35%) — https://ppc.land/salesforce-study-reveals-enterprise-ai-agents-fail-65-of-multiturn-tasks/
+- AI Incident Database #1039 (Cursor: галлюцинация как публичный инцидент) — https://incidentdatabase.ai/cite/1039/
+- WinBuzzer (Cursor: галлюцинация как публичный инцидент) — https://winbuzzer.com/2025/04/22/cursor-ais-support-bot-hallucinates-policy-sparking-user-backlash-and-company-apology-xcxwbn/
+- Stanford Digital Economy Lab (Кто пострадал первым: джуны) — https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/
+- Fortune (Кто пострадал первым: джуны) — https://fortune.com/2026/06/27/what-is-ai-impact-entry-level-jobs-stanford-adp-canaries-brynjolfsson-richardson/
+- CNBC (Две трети компаний возвращают уволенных) — https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html
+- Yahoo Finance — AI Boomerang (Две трети компаний возвращают уволенных) — https://finance.yahoo.com/sectors/technology/articles/ai-boomerang-why-companies-quietly-151721619.html
+- The HR Digest — Careerminds (Возврат дороже, чем экономия) — https://www.thehrdigest.com/a-rehiring-crisis-has-hit-some-businesses-where-ai-investments-led-to-layoffs/
+- CIO (Рынок найма: восстановление есть, но кривое) — https://www.cio.com/article/4195780/it-hiring-sees-a-boost-as-software-development-jobs-slowly-bounce-back.html
+- Pragmatic Engineer (Рынок найма: восстановление есть, но кривое) — https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026
+- CNBC, 27.02.2026 (Кто занёс деньги в рекордный раунд) — https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html
+- CNBC, 31.03.2026 (Кто занёс деньги в рекордный раунд) — https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+- Amazon press release (Кто занёс деньги в рекордный раунд) — https://press.aboutamazon.com/2026/2/openai-and-amazon-announce-strategic-partnership
+- Amazon, форма 8-K, SEC (Деталь, спрятанная в контракте) — https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/tm267374d1_8k.htm
+- Nvidia, форма 8-K, SEC (Карусель) — https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000069/nvda-20260817.htm
+- Bloomberg — схема круговых сделок (Карусель) — https://www.bloomberg.com/graphics/2026-ai-circular-deals/
+- MLQ — понижение рейтинга S&P (Ставка Oracle) — https://mlq.ai/news/sp-downgrades-oracle-to-bbb-one-notch-above-junk-citing-openai-concentration-risk/
+- Forbes — сокращения (Ставка Oracle) — https://www.forbes.com/sites/jonmarkman/2026/04/06/oracles-massive-30000-layoff-as-ai-spending-surges/
+- Cloud Wars — бэклоги гиперскейлеров (Два триллиона обещаний) — https://cloudwars.com/cloud/hyperscaler-backlog-soars-to-2-33-trillion-can-we-stop-the-panic-please/
+- Fierce Network — доля OpenAI у Microsoft (Два триллиона обещаний) — https://www.fierce-network.com/cloud/microsoft-livin-ai-prayer
+- San Francisco Fed (Так уже было: механика 2006 года) — https://www.frbsf.org/research-and-insights/publications/economic-letter/2007/06/house-prices-subprime-mortgage-delinquency/
+- Chicago Fed (Так уже было: механика 2006 года) — https://www.chicagofed.org/publications/chicago-fed-letter/2007/august-241
+- Interconnects — разбор Kimi K3 (Бесплатный конкурент из Китая) — https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation
+- OpenRouter (Бесплатный конкурент из Китая) — https://openrouter.ai/moonshotai/kimi-k3
+- Washington Post — $40 трлн (Третий заёмщик — само государство) — https://www.washingtonpost.com/politics/2026/08/20/trump-national-debt-elections/07ea32fc-9c9f-11f1-9cc4-2dc9b46e2d5c_story.html
+- Al Jazeera — разбор (Третий заёмщик — само государство) — https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter
+- Pensions & Investments (Этажерка) — https://www.pionline.com/data-rankings/chart-of-the-day/pi-sp500-index-concentration/
+- Forbes — концентрация индекса (Этажерка) — https://www.forbes.com/sites/jasonkirsch/2026/06/22/the-sp-500-concentration-problem-when-index-investing-becomes-a-bet-on-10-stocks/
+- EH.net — экономическая история тракторов в США (В прошлый раз это уже было) — https://eh.net/encyclopedia/economic-history-of-tractors-in-the-united-states/
+- Pew Research via Search Engine Land (AI сжигает старую монетизацию) — https://searchengineland.com/google-ai-overviews-hurting-clicks-study-459434
+- Search Engine Journal — данные Ahrefs (AI сжигает старую монетизацию) — https://www.searchenginejournal.com/impact-of-ai-overviews-how-publishers-need-to-adapt/556843/

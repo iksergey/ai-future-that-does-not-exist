@@ -1,0 +1,8 @@
+.DS_Store
+*.mov
+*.mp4
+*.m4a
+*.mp3
+video/
+ai/
+release/
